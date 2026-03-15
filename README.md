@@ -103,3 +103,7 @@ Connected Power BI to Databricks Delta tables.
 
 Built interactive dashboards showing sales distribution by store, location, category, and product.
 
+## Power BI Dashboard
+
+![Retail Sales Dashboard](Retail_sales.PNG)
+
